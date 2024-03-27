@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "913904309933",
+    "project_id": "weatherfirebase-f4c61",
+    "storage_bucket": "weatherfirebase-f4c61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913904309933:android:25b1c0dca871d0e9879824",
+        "android_client_info": {
+          "package_name": "com.example.ualo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAKEZQ6YaRUEC3aELSMEvUZwZhFiefG_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
